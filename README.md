@@ -4,7 +4,7 @@
 ![](https://github.com/srajan-kiyotaka/Object-Localization-with-TensorFlow/blob/master/Image/sample1.jfif)
 ## `Sample Classes`
 ![](https://github.com/srajan-kiyotaka/Object-Localization-with-TensorFlow/blob/master/Image/sample.png)
-## Sample Prediction
+## `Sample Prediction`
 ![](https://github.com/srajan-kiyotaka/Object-Localization-with-TensorFlow/blob/master/Image/output3.png)
 ![](https://github.com/srajan-kiyotaka/Object-Localization-with-TensorFlow/blob/master/Image/output2.png)
 ![](https://github.com/srajan-kiyotaka/Object-Localization-with-TensorFlow/blob/master/Image/output1.png)
